@@ -1,0 +1,26 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="padding">5dp</dimen>
+    <dimen name="text_view_margin">20dp</dimen>
+    <dimen name="margin">25dp</dimen>
+    <dimen name="text_size">18sp</dimen>
+    <dimen name="text_view_width">80dp</dimen>
+    <dimen name="stroke_width">1dp</dimen>
+    <dimen name="birth_year_width">80dp</dimen>
+    <dimen name="birth_month_width">40dp</dimen>
+    <dimen name="birth_day_width">40dp</dimen>
+    <dimen name="err_msg_margin">25dp</dimen>
+    <dimen name="err_msg_height">30dp</dimen>
+
+    <dimen name="school_name_first_word_size">16sp</dimen>
+    <dimen name="edit_text_height">40dp</dimen>
+
+    <dimen name="shape_radius">2dp</dimen>
+    <dimen name="strength_width">50dp</dimen>
+    <dimen name="birth_height">35dp</dimen>
+
+
+</resources>

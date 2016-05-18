@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorEditTextSolid">#FFFFFFFF</color>
+    <color name="colorEditTextStrokeInFocused">#00BFFF</color>
+    <color name="colorEditTextStrokeNotInFocused">#EAEAEA</color>
+    <color name="colorButtonDownSolid">#FF0000</color>
+    <color name="colorButtonUptSolid">#FFFFFFFF</color>
+
+    <color name="passwordWeakStrength">#FF4500</color>
+    <color name="passwordMiddleStrength">#EEEE00</color>
+    <color name="passwordStrongStrength">#7FFF00</color>
+
+    <color name="colorErrorMessage">#EE0000</color>
+
+    <color name="textColor">#000000</color>
+</resources>

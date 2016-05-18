@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Graduation</string>
+
+    <string name="nick_name">Account</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">ConfirmPassword</string>
+    <string name="email">Email</string>
+    <string name="school_name">School</string>
+    <string name="student_id">StudentID</string>
+    <string name="birth">BirthDate</string>
+    <string name="sex">Sex</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="submit">Submit</string>
+
+
+    <string name="enter_nick_name">Please Enter Account(less than 16 number and character)</string>
+    <string name="enter_password">Please Enter Password(less than 16 number and character)</string>
+    <string name="enter_confirm_password">Please Enter Password Again</string>
+    <string name="enter_school_name">Please Enter Your School</string>
+    <string name="enter_student_id">Please Enter The Student ID</string>
+    <string name="enter_email">Please Enter Your Email</string>
+
+    <!--Strength Of Password-->
+    <string name="password_strength_text">PasswordStrength</string>
+    <string name="weak">Weak</string>
+    <string name="middle">Middle</string>
+    <string name="strong">Strong</string>
+
+
+    <!--error String-->
+    <string name="account_null">Account Can Not Null</string>
+    <string name="account_error">Account Can Not Contain Special Character</string>
+    <string name="password_null">Password Can Not Null</string>
+    <string name="password_error">Password Can Not Contain Special Character</string>
+    <string name="confirm_password_null">Please Enter Same Password</string>
+    <string name="confirm_error">Please Enter Same Password</string>
+    <string name="email_null">Email Can Not Null</string>
+    <string name="email_format_error">Email Format ERROR</string>
+    <string name="school_name_null">The School Name Can Not Null</string>
+    <string name="student_id_null">The Student Id Can Not Null</string>
+    <string name="student_id_error">Student Id Must Be Number</string>
+
+    <string name="dialog_title">Result</string>
+    <string name="dialog_text_info_not_full">Information Not Full</string>
+    <string name="dialog_submit_success">Success</string>
+    <string name="dialog_can_not_connect_server">Connect Server Error</string>
+    <string name="dialog_user_has_exist">This User Already Exist</string>
+    <string name="dialog_waite_send_to_server">Send To Server ...</string>
+    <string name="positive_button">OK</string>
+
+
+
+</resources>

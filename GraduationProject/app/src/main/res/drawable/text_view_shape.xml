@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--textView的形状-->
+    <solid android:color="@color/colorEditTextSolid" />
+    <corners android:radius="3dp" />
+    <stroke android:color="@color/colorEditTextStrokeNotInFocused"
+            android:width="@dimen/stroke_width"/>
+
+</shape>
